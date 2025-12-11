@@ -1,5 +1,5 @@
 ---
-title: Extension template
+title: Geolocation & timestamp extension
 layout: default
 parent: Extensions
 has_toc: false
