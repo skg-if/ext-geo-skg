@@ -7,7 +7,7 @@ nav_exclude: true
 # search_exclude: true
 ---
 
-# Extension template documentation
+# Geolocation & timestamp extension documentation
 
 {: .highlight }
 This page serves to kickstart the development of your extension and provide guidance in the process. Once confident with the whole process, please delete the content of this page and replace it with an introductory description of the extension, comprehending its context, scope and objectives.
