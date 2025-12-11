@@ -22,5 +22,5 @@ This template introduces a brand-new entity [Comment].
 
 ----
 [Extended research product]: {% link ext-geo-skg/extended-interoperability-framework/core-extensions/geo-skg-research-product.md %}
-[Comment]: {% link ext-geo-skg/extended-interoperability-framework/extension-entities/geo-skg-comment.md %}
+[Comment]: {% link ext-geo-skg/extended-interoperability-framework/extension-entities/geo-skg-new.md %}
 [Research product]: {% link interoperability-framework/docs/research-product.md %}
