@@ -17,10 +17,10 @@ As an example, this template extends these core entities:
 
 
 ## Extension-specific entities
-This template introduces a brand-new entity [Comment].
+This template introduces a brand-new entity [New].
 
 
 ----
 [Extended research product]: {% link ext-geo-skg/extended-interoperability-framework/core-extensions/geo-skg-research-product.md %}
-[Comment]: {% link ext-geo-skg/extended-interoperability-framework/extension-entities/geo-skg-new.md %}
+[New]: {% link ext-geo-skg/extended-interoperability-framework/extension-entities/geo-skg-new.md %}
 [Research product]: {% link interoperability-framework/docs/research-product.md %}
