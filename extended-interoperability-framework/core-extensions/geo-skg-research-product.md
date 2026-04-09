@@ -22,7 +22,7 @@ Here below, please describe the new properties and relations that the extension 
 *List* (optional): a description.
 
 ```json
-    "geo_skg_property": ...
+"geo_skg_property": ...
 ```
 
 ----

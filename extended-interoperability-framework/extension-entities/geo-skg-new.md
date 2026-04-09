@@ -25,7 +25,7 @@ Like any other entity in the SKG-IF, this one has to have some basic mandatory f
 **Suggestion:** Use a URL as a string to make this entity dereferenceable on the Web. For additional information, see the [section 'Local identifiers of entities' of the Interoperability Framework](/interoperability-framework/#local-identifiers-of-entities).
 
 ```json
-    "local_identifier": "https://..."
+"local_identifier": "https://..."
 ```
 
 ### `identifiers`
@@ -38,26 +38,26 @@ Each identifier is structured as follows:
 **Note:** the current version of SKG-IF includes the following types of identifiers (to be specified as strings in the field “scheme”): `orcid`, `handle`, `url`, ...
 
 ```json
-    "identifiers": [
-        {
-            "scheme": "...",
-            "value": "..."
-        }           
-    ]
+"identifiers": [
+    {
+        "scheme": "...",
+        "value": "..."
+    }           
+]
 ```
 
 ### `entity_type`
 *String* (mandatory): Field stating what kind of entity is being serialised. Needed for parsing purposes; fixed to `geo_skg_new`. Please notice that you need to prepend the assigned `geo_skg` prefix to your type in order to prevent possible clashes with other extensions.
 
 ```json
-    "entity_type": "geo_skg_new"
+"entity_type": "geo_skg_new"
 ```
 
 ### `geo_skg_property`
 *String* (mandatory): a description.
 
 ```json
-    "geo_skg_property": ...
+"geo_skg_property": ...
 ```
 
 ----
